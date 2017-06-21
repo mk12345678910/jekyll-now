@@ -19,8 +19,10 @@ html {
 
 body {
 	background: url("http://freeimagescollection.com/images/backgrounds/flat-wood-pieces-background-f4.jpg");
-  font: 18px/1.4 lucidia console;
-  color: $darkGray;
+	background-repeat: no repeat;
+        background-attatchment: fixed;
+font: 18px/1.4 lucidia console;
+color: $darkGray;
 }
 
 .container {
