@@ -40,6 +40,14 @@ table, th, td {
    border: 1px solid white;
 }
 
+table {
+    width: 100%;
+}
+
+th {
+    height: 50px;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: $white;
