@@ -1,5 +1,5 @@
 ---
-title:  Blogging lesson 1
+title:  Blogging lesson 3
 layout: post
 author: manas.kubal
 permalink: /-blogging-lesson-1---a-start-of-github/
@@ -9,24 +9,24 @@ published: true
 <table>
   <tr>
     <td>Title:</td>
-    <td>A difficult few lessons</td>
+    <td>The final lessons</td>
   </tr>
   <tr>
     <td>Date:</td>
-    <td>21/06/17</td>
+    <td>19/07/17</td>
   </tr>
   <tr>
     <td>Starting point:</td>
-    <td>A brand new blog due to issues</td>
+    <td>A blog and then ready to finish</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To start a repl and make a small game</td>
+    <td>To try and show my different games that I created</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td>I achieved my target by creating the name game</td>
+    <td>I achieved my target by creating the hangman game</td>
   </tr>
 </table>
 
